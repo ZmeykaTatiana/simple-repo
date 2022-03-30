@@ -1,5 +1,9 @@
 public class Test{
   public static void main (String[]args){
-    System.out.println("Hello world!");
+    int a=5;
+    int b=2;
+    int sum=a+b;
+    System.out.println(sum);
+  
 
 }
